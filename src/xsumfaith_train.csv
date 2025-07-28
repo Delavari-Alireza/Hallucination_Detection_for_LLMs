@@ -1,0 +1,504 @@
+bbcid,summary,system,ans_factual,ans_contradict,self_verdict,uncertainty
+36418721,"scotland women's euro 2017 qualifier against iceland on friday would be a "" humiliating "" chance to reach the finals, according to midfielder anna evans.",BERTS2S,no.,no.,Unsupported,0.057641318982612
+38097669,scotland's hopes of reaching the cyprus cup quarter-finals with a hard-fought win over georgia in the first test in perth.,PtGen,yes.,yes.,Unsupported,0.07503176288240997
+18944949,ferrari's fernando alonso won a thrilling hungarian grand prix to beat ferrari's jenson button to win the hungarian grand prix.,BERTS2S,yes.,yes.,Unsupported,0.0240754531270123
+19311364,"the right to be built in social housing should be scrapped in a bid to boost the housing market, a think tank has said.",TranS2S,no.,yes.,Contradicted,0.1393588350776192
+35428466,writer william mcilvanney is to be given the freedom of the university of glasgow.,TranS2S,yes,yes,Unsupported,0.05404335144262338
+33210810,a man has died in a three-vehicle crash in the angus area off the coast of mayo in the highlands.,PtGen,no.,no,Unsupported,0.05866350301188083
+35082344,google has pledged $ 1bn ( £800m ) to research and research into artificial intelligence ( ai ).,BERTS2S,yes.,no,Entailed,0.027121679889504043
+27493801,northern ireland's councils have voted to reject the government's plans for a new community in northern ireland.,TranS2S,no.,yes.,Contradicted,0.15009537178929738
+38342554,"lorry drivers caught using a mobile phone as the driver's death on the a34, have been jailed.",TranS2S,no,yes,Contradicted,0.06392786120670757
+35504758,bernie sanders and bernie sanders have clashed on social media in the democratic presidential race for the first time.,TranS2S,no.,yes.,Contradicted,0.08789251557133614
+27493801,northern ireland's councils have voted to reject the government's plans for a new community in northern ireland.,TranS2S,no.,yes.,Contradicted,0.15009537178929738
+24522070,"older people living in residential care will be ``unacceptable variations''across wales, a report has suggested.",PtGen,no.,yes.,Contradicted,0.046135531614435774
+40639020,a us police officer has been charged with murder after the death of a teenager in the us state of dallas.,TConvS2S,no.,yes,Contradicted,0.11241623921011708
+33945697,a memorial service has been held in portsmouth to mark the 70th anniversary of vj day.,TConvS2S,no.,yes,Contradicted,0.10601861097985021
+38156376,police have appealed for help in tracing a woman who has been missing for six years.,TranS2S,no.,yes.,Contradicted,0.16102882785920403
+39379405,"a oil company has said it is "" extremely concerned "" about the health of six workers who were exposed to radioactive radiation at a north sea platform.",BERTS2S,no.,yes.,Contradicted,0.045331641611676264
+35483754,celtic's hopes of reaching the europa league quarter-finals have suffered a setback as they were held to a goalless draw by hearts.,TranS2S,no.,yes.,Contradicted,0.026649097336355485
+39587051,elinor barker won britain's first gold medal of the 2016 rio olympics with silver in the women's individual pursuit.,TranS2S,yes.,yes.,Unsupported,0.10895755513728819
+36886766,"england's innings-and-39-run defeat by pakistan in the third test was "" one of the greatest in the history "", says former",BERTS2S,yes.,no.,Entailed,0.03388558334864902
+32093224,hundreds of people have taken part in a charity in derry to wear welly trees in a bid to save their lives.,PtGen,no.,no.,Unsupported,0.07832605286299588
+33210810,one person has died following a two-vehicle crash on the a9 in the highlands.,BERTS2S,no,yes,Contradicted,0.09978998015036553
+38457071,manchester city have agreed a deal to sign goalkeeper carlos tevez from chinese side shanghai sipg.,TConvS2S,no.,no,Unsupported,0.04192491494570112
+33335482,a music shop in sunderland has voted to sell their own album in a bid to sell their own album.,PtGen,yes.,yes,Unsupported,0.13626359610372757
+35412241,"leeds rhinos say they have been left "" devastated "" by the flooding that affected their training ground last month.",BERTS2S,no,yes,Contradicted,0.034689156800434474
+18194275,this year's london fringe festival is taking place in london.,TConvS2S,no.,yes.,Contradicted,0.0646814226052371
+34696683,hundreds of people have attended the opening of a church that was damaged during last year's floods.,BERTS2S,yes,yes,Unsupported,0.1815807741749759
+36664885,hundreds of people have attended a library in londonderry as part of a public inquiry into the future of the town's crown.,PtGen,no.,no,Unsupported,0.06980083022106136
+39379405,"a oil company has said it is "" extremely concerned "" about the health of six workers who were exposed to radioactive radiation at a north sea platform.",BERTS2S,no.,yes.,Contradicted,0.045331641611676264
+34536537,an unexploded world war two mine has been evacuated off the south coast of scotland after an explosive device was found.,TranS2S,no.,yes.,Contradicted,0.08354065536661168
+40642906,leigh centurions have appointed former scotland international jamie duffy as their new head coach on a two-year deal.,TConvS2S,no.,yes,Contradicted,0.046862060521791725
+36404868,mclaren's sebastian vettel and kimi raikkonen are in the race for the formula 1 title this weekend.,TranS2S,"no. the information provided in the summary does not mention sebastian vettel or kimi raikkonen, nor is there any discussion of their current results or performances. the article focuses on mclaren's struggles with honda power-units and its past successes under ron dennis' leadership.",no.,Unsupported,0.029671208177486124
+30863268,alfreton town have signed defender joel mooney from fellow league one side oldham athletic on a two-year deal. end.,PtGen,no,no,Unsupported,0.036567560746092284
+34041727,a man has been arrested on suspicion of murder after a man was stabbed to death in south yorkshire.,TConvS2S,no,no,Unsupported,0.33202697528761865
+39141044,england fly-half mako vunipola has been ruled out of the rest of the season after suffering a knee injury.,PtGen,no,yes,Contradicted,0.13908691548577554
+37838086,"the bank of england's governor of the bank of england, mark carney, has announced he will step down at the end of the year.",TConvS2S,yes.,yes,Unsupported,0.15993179873952384
+36824899,daisy daisy and daisy [UNK] have shared rare cloned sheep through a [UNK] pen in a barn on a farm in nottingham.,PtGen,no.,yes.,Contradicted,0.04891955204959297
+38505171,iran's ex-wife has called on the british government to appeal against her jailed sentence for plotting mass murder in tehran.,TranS2S,no,yes.,Contradicted,0.08789251557133614
+38333121,a man has been found guilty of defrauding an elderly hillsborough charity worker out of thousands of pounds.,TranS2S,no.,no,Unsupported,0.06430353805942558
+37543139,the jersey football association (ifa) has said it will not accept a bid to host the 2018 world cup in 2021.,TConvS2S,no.,no,Unsupported,0.04695367742425544
+38847045,a new railway station is to be built on a former railway station site in south lancashire.,BERTS2S,no.,yes,Contradicted,0.14590425099752877
+36687249,juan martin del potro beat spain's juan martin del potro to reach the second round of the australian open.,TConvS2S,yes.,yes.,Unsupported,0.07756487275207245
+36922763,millions of people are being urged not to renew their tax credit because of a lack of their tax credits.,TranS2S,no.,no,Unsupported,0.13428209570689795
+40965536,the british national team will play greece in the eurobasket 2017 next month.,TranS2S,no.,no,Unsupported,0.06712680240785066
+33811105,the scottish government has been accused of ``burying the size of taxation''by the scottish government.,TConvS2S,no.,yes.,Contradicted,0.035235431532845564
+23304092,police investigating the murder of a man found dead at his home in cambridgeshire have issued a cctv appeal.,TranS2S,no.,yes,Contradicted,0.07488535948913438
+33928485,a coal mine in south yorkshire has collapsed as a result of the loss of a coal mine.,TConvS2S,no.,yes,Contradicted,0.14791273425978155
+34104114,"chinese authorities have arrested 21 people suspected of selling fake stockpiles, state media report.",TranS2S,no,yes,Contradicted,0.11197796982787793
+35243864,all images are copyrighted.,BERTS2S,yes.,yes.,Unsupported,0.05106737830317957
+32719212,"one of the uk's most famous landmarks, the duke, has been given the go-ahead by the national trust.",TConvS2S,no,no,Unsupported,0.09728814615620673
+31566848,"a woman was assaulted and assaulted in a mcdonald's restaurant in kent, police have said.",BERTS2S,no.,no,Unsupported,0.1548599103397344
+38763308,the partner of a baby girl born in a carmarthenshire car has said she is concerned for the treatment of the fertility treatment.,TranS2S,no,no,Unsupported,0.06184010820172636
+36958859,torquay united have signed defender angus macdonald from non-league side torquay united on a three-year deal for an undisclosed fee.,PtGen,no.,yes,Contradicted,0.13507121447513626
+38592703,a major road has reopened in bristol following a crash involving two commuters.,TranS2S,no,yes,Contradicted,0.08256737725124999
+35794194,the head of the international community in jordan has urged the international community to help tackle the ``crisis crisis''in syria.,TConvS2S,yes.,yes.,Unsupported,0.0644292536363521
+39255356,the live-action remake of the live-action remake of beauty and the beast has been approved by the malaysian government.,PtGen,no.,yes.,Contradicted,0.15531426671942994
+39017131,a man is in a critical condition in hospital after being shot in the head in north belfast.,TConvS2S,no.,yes.,Contradicted,0.14951020539044557
+28783667,uruguay's luis suarez has been given a one-match ban for biting uruguay's giorgio chiellini.,TConvS2S,no.,yes.,Contradicted,0.05597710562304024
+38713957,the family of a [UNK] say they have found a unique way to swim in the sea off the coast of australia.,PtGen,no.,no.,Unsupported,0.029555531099426883
+37429966,a new pension scheme to restore bernard matthews's chicken and chicken has been given guarantees by the unite union.,PtGen,no.,yes,Contradicted,0.05730456442826864
+38157000,worcestershire have re-signed australia all-rounder mitch santner for the 2016 season.,TranS2S,no.,yes,Contradicted,0.05116721674316673
+40540127,andy murray reached the third round of the italian open with a straight-set win over italy's kei ninini.,TranS2S,yes.,yes.,Unsupported,0.03572047411377196
+36437817,"northern ireland's euro 2016 qualifier against northern ireland is a ``crazy moment'', according to former world cup winner gareth washington.",PtGen,no.,no,Unsupported,0.07532542889919286
+16025568,"the world's largest satellite satellite, the team, has published a new survey of the world's largest satellite satellite.",TConvS2S,no.,yes.,Contradicted,0.06417806778110786
+33665360,a man and a woman have been arrested in connection with an elaborate bomb found at a house in eastbourne.,TranS2S,no,yes,Contradicted,0.10498831192716152
+23602056,a roman silver coin believed to be one of britain's most famous roman coins has been discovered in norfolk.,TranS2S,no.,yes.,Contradicted,0.0820849986238988
+38534338,police have said they are treating the death of a man whose body was found in a flat in glenrothes at the weekend.,TranS2S,no,no,Unsupported,0.11132376739130573
+34743526,"more than # 1m has been spent on private landlords in london for more than a decade, according to a report.",TConvS2S,no.,yes.,Contradicted,0.06570000679939665
+35773812,argos owner home retail group has reported a 23% rise in like-for-like sales to # eight-week m in the first half of the year.,TConvS2S,no.,yes.,Contradicted,0.05608654274486039
+37429966,a new pension scheme to restore bernard matthews's chicken and chicken has been given guarantees by the unite union.,PtGen,no.,no,Unsupported,0.05730456442826864
+38450424,"israeli prime minister benjamin netanyahu has said it is ``deeply disappointed''that israel's new prime minister, benjamin netanyahu, will step down.",TConvS2S,no.,yes.,Contradicted,0.05037394257513113
+35412241,"leeds rhinos'training ground will be replaced by the rugby league's world governing body, says the rugby league chief executive.",TranS2S,no,no,Unsupported,0.03201962605384605
+35903821,potholes have been discovered at three potholes in northumberland.,BERTS2S,no.,no,Unsupported,0.12226523948895596
+35243864,"the oldest image of the oldest image of children dressed in the street in liverpool, has been unveiled in liverpool.",PtGen,yes.,no,Entailed,0.04649737707355894
+34687720,northern ireland's rory mcilroy is one shot off the lead after the first round of the fedex championship in california.,TConvS2S,no.,yes.,Contradicted,0.05775400969745271
+38865319,alexis sanchez was sent off in the first half as arsenal beat 10-man hull to reach the premier league play-off final.,BERTS2S,yes.,yes.,Unsupported,0.053309505453285416
+38479017,league two club leyton orient have signed mansfield town striker chris bignot on an initial short-term deal until the end of the season.,PtGen,no,no,Unsupported,0.05037394257513113
+38260939,badminton has lost its uk sport funding for the 2020 olympics and paralympics after uk sport withdrew its funding.,BERTS2S,yes.,yes.,Unsupported,0.08485622926246582
+35146033,a study into the route of a railway line between the uk and the north-east of england has been described as ``inadequate''by a report.,TConvS2S,no.,yes.,Contradicted,0.05696977727564115
+35548510,"turkish president recep tayyip erdogan has said fire broke out at offices in istanbul's capital, istanbul.",TranS2S,no,no,Unsupported,0.05393790103427319
+36437817,northern ireland striker ryan washington is hoping for a place in the northern ireland squad for euro 2016 after scoring his first international goal.,BERTS2S,no.,no.,Unsupported,0.0747392417609257
+40679217,two senior councillors at aberdeenshire council are to leave the authority.,BERTS2S,yes,yes,Unsupported,0.04882409929541996
+37761972,a woman who lost her hair at the age of five has told newsbeat that she's going to go head-to-head.,TranS2S,no.,yes.,Contradicted,0.07832605286299588
+34461949,singapore's state-run paper paper has cancelled all of its supermarkets because of the haze caused by the haze caused by the air.,TranS2S,no.,no,Unsupported,0.053309505453285416
+35424211,"st mirren have signed st mirren midfielder jack clarkson on loan until the end of the season, with the option of a further 12 months.",PtGen,no.,yes,Contradicted,0.1411393170124127
+24522070,"older people in care homes in wales are to be given more care in care, a bbc investigation has found.",TConvS2S,yes.,yes,Unsupported,0.055324952588986245
+27786442,"the demise of hereford united's takeover of kidderminster harriers has been resolved, the conference has confirmed.",TConvS2S,yes.,yes.,Unsupported,0.048349622005182585
+37539801,"three people have been rescued from a burning car in the vale of glamorgan on saturday afternoon, police have said.",PtGen,no,no,Unsupported,0.0784791829273937
+38865319,sam sanchez's second-half penalty earned hull a narrow victory over arsenal in the first game of the premier league season.,PtGen,yes.,yes.,Unsupported,0.05652643495158194
+21197406,"an earthquake in italy has killed at least 18 people, italian scientists say.",TranS2S,no.,yes.,Contradicted,0.10096627285877001
+38693675,a man has been found guilty of murdering his mother and his mother in a park in dorset.,TConvS2S,no.,yes,Contradicted,0.14690506017550908
+38034979,ipswich made it three championship wins from two with a comfortable win over qpr.,TranS2S,yes.,yes.,Unsupported,0.04542026649376239
+36436094,hibernian have signed former hibernian and hibernian midfielder alan stubbs and hibernian defender alan stubbs until the end of the season.,PtGen,no.,yes.,Contradicted,0.10938400295067245
+29347895,"tributes have been paid to renowned renowned music director christopher lee, who has died at the age of 86.",TranS2S,yes.,yes.,Unsupported,0.09882021153081355
+39206355,ireland lost to afghanistan in the second of the three-match twenty20 series in india on tuesday.,BERTS2S,no.,yes,Contradicted,0.0580934054505005
+40138740,"in the wake of donald trump's decision to leave the eu, there is no doubt that the us should not be allowed to leave the country.",PtGen,no.,yes.,Contradicted,0.08452540617641245
+31821135,a public inquiry into plans to build a circuit of wales racing track in blaenau gwent has opened.,BERTS2S,no.,no,Unsupported,0.08112867942327083
+40613520,a man who admitted causing the death of a motorcyclist by dangerous driving has been spared a jail term.,PtGen,no.,yes,Contradicted,0.2660106987884688
+40415756,a new report has warned that global food trade is at risk because of climate change.,BERTS2S,yes.,no,Entailed,0.14266363461398565
+33717488,"as russia's roubles has broken the country's debt crisis, the country's second-largest bank has ever seen, having lost",TranS2S,yes.,yes,Unsupported,0.04047659998483431
+37405757,la la land film la la land has won the top prize at the venice film festival.,TConvS2S,no,no.,Unsupported,0.035442495178845214
+35082344,"ai weiwei, the founder of ai giant ai weiwei, has launched a $ 1m (Â # venture) research project.",TConvS2S,no.,yes.,Contradicted,0.03551178644746881
+31920236,oscar-winning oscar winner oscar winner oscar-winning actress oscar-winning actress oscar-winning actress oscar-winning actress oscar-winning oscar winner oscar winner,BERTS2S,no,no,Unsupported,0.17668294258640735
+39909064,thomas jungels retained the yellow jersey for the first time since returning to the giro d'italia in the first round of the giro d'italia.,PtGen,yes.,yes.,Unsupported,0.04750715251567949
+40682974,the duke and duchess of cambridge have taken part in a concert in the german city of hamburg.,BERTS2S,no,yes,Contradicted,0.09337853762829694
+33719438,"the death of ex-russian spy alexander litvinenko may have been linked to the death of ex-russian spy alexander litvinenko, a court",TranS2S,no.,yes,Contradicted,0.0814462080966998
+26381454,russia's new president has called for a new law to allow russian citizens to be barred from leaving the country.,TConvS2S,yes.,yes.,Unsupported,0.10581174546314712
+33960105,"the welsh government has a ``huge market'', according to new research from the university of wales (confor).",PtGen,yes.,yes.,Unsupported,0.021163680509403017
+35933239,the fbi has ordered the fbi to investigate the killing of a man accused of killing his wife and his wife.,PtGen,no.,no.,Unsupported,0.11351943196213851
+26503920,meet ricky's first professional team in the united states.,TranS2S,no.,no,Unsupported,0.020958009827824402
+38921269,torquay united have signed barrow's myles keating and barrow's ruairi keating on loan until january.,BERTS2S,no.,yes,Contradicted,0.0689876259172394
+38592703,a man has been taken to hospital after a crash involving a car and a lorry in bristol.,TConvS2S,no,no,Unsupported,0.18552413223220693
+36495608,britain's laura muir has become the first british woman to win a world record for the fastest time in her career.,TConvS2S,no.,yes,Contradicted,0.1365299960113412
+38156376,police searching for a greenock woman who has been missing for more than a decade have launched a fresh search for her.,BERTS2S,no.,no.,Unsupported,0.11088975715305244
+38727050,tom ince scored the only goal of the game to give derby county their first win of the season as they beat ipswich town.,TranS2S,yes.,yes.,Unsupported,0.040397621278238746
+37949101,a man who admitted causing the death of a homeless man by dangerous driving has been given a 12-month suspended prison sentence.,PtGen,no.,yes,Contradicted,0.20940678844880323
+34490431,a caravan stolen from a cambridgeshire caravan park has been stolen from a caravan in cambridgeshire.,TConvS2S,no.,yes,Contradicted,0.14420441498581743
+38316455,swansea's # 1bn tidal lagoon in swansea has been rated ``unrealistic''by the developer of the welsh government.,PtGen,yes.,yes.,Unsupported,0.0648078769591442
+34104114,"china's state-run news agency xinhua says it has arrested more than 100 people in connection with the blasts in tianjin last month, state",BERTS2S,no.,no,Unsupported,0.08419587284734237
+10138849,jk venter is one of the world's most successful scientists.,BERTS2S,yes.,yes.,Unsupported,0.055867882036999716
+36968311,a campaign to raise funds for the iraq war has been launched by the uk government.,TConvS2S,no.,yes,Contradicted,0.14294254681187055
+37728276,a updated bay has been spotted at a beach in south south england.,TConvS2S,no,no,Unsupported,0.048349622005182585
+38034979,ipswich made it three championship wins from two with a comfortable win over qpr.,TranS2S,yes.,yes.,Unsupported,0.04542026649376239
+35146033,"more than 10, 000 journeys could be made by a rail link between england and the uk over the next 30 years, a study has found.",BERTS2S,no.,no.,Unsupported,0.09615470492184709
+35970356,castleford tigers have signed warrington wolves half-back jordan taylor on loan until the end of the season.,BERTS2S,yes,no,Entailed,0.04111401368597533
+30310314,it's a bit of a lot of money.,TranS2S,yes.,yes.,Unsupported,0.08823651715095134
+36886766,"alastair cook said england's batting collapse on day two of the second test against pakistan was "" not good enough "".",TranS2S,no.,no.,Unsupported,0.04047659998483431
+34793274,the united nations has announced a new flight to flight flight mh370.,TConvS2S,no.,yes.,Contradicted,0.015666196140128895
+38765314,st mirren have signed aberdeen winger cammy smith for an undisclosed fee on a two-year deal. his place in the new season.,PtGen,no,yes,Contradicted,0.09540642307157722
+30520122,the conservatives have retained control of the green party in the wake of the 2009 vote in the european elections.,PtGen,no,yes,Contradicted,0.03663905155569193
+36686216,great britain's eventers missed out on a bronze medal at the rio olympics after losing in the dressage.,TranS2S,no,yes.,Contradicted,0.07517845249923724
+35933239,the fbi has said it will help the san bernardino killer to access iphones used by the san bernardino victims.,BERTS2S,no.,yes,Contradicted,0.08112867942327083
+32201626,"the town of glass, a small town in the republic of ireland, is a small town in the republic of ireland.",TConvS2S,no.,no.,Unsupported,0.08568896284031882
+40223602,bolton defender dorian dervite has signed a new two-year contract with the championship club.,BERTS2S,no,no,Unsupported,0.10685012525145778
+30216408,"nearly half of pupils in the uk do not have a tablet tablet, according to a study from the university of cambridge.",TranS2S,yes.,yes.,Unsupported,0.11919992840264731
+38713957,an australian man has made history by becoming the first person in the world to go on display the opport.,TranS2S,yes.,no.,Entailed,0.036567560746092284
+39933716,dutch airline klm has announced new flights between inverness and amsterdam this summer.,BERTS2S,no,yes,Contradicted,0.10768816117032609
+39183253,police are investigating a suspicious fire at a house in county antrim.,TranS2S,no.,yes,Contradicted,0.11110655035318481
+21405673,the mother of a murdered victim of the victim of the murder of sian thompson has said she is ``capable of walking amongst other people''.,PtGen,no.,yes.,Contradicted,0.061358864661707306
+40944669,angelo sakho scored his first goal of the season as west ham came from behind to beat cheltenham town in the efl cup third round.,PtGen,yes.,yes,Unsupported,0.1144097759018383
+36960270,wayne rooney's testimonial against manchester united has been broadcast live on facebook.,BERTS2S,no.,yes,Contradicted,0.060881366188628536
+36486846,rangers have confirmed the appointment of manager paul durrant to remain as manager at the end of the season.,PtGen,no.,no,Unsupported,0.04577650205901574
+34593064,a man has been charged with raping a 15-year-old boy in cumbria.,TranS2S,no,yes,Contradicted,0.27178760681820513
+18944949,ferrari's fernando alonso won a thrilling hungarian grand prix to beat ferrari's jenson button to win the hungarian grand prix.,BERTS2S,no.,yes.,Contradicted,0.0240754531270123
+33645248,mclaren have rejected accusations from formula 1 boss bernie bottas's decision to drive him to the 2009 of the world's world champion.,PtGen,no.,yes.,Contradicted,0.02319840216221497
+36436094,hibernian head coach alan stubbs will leave the championship club at the end of the season to succeed rotherham united boss rotherham united.,BERTS2S,yes.,yes.,Unsupported,0.05993748809272633
+21405673,the mother of murdered toddler james bulger has said she hopes the mother of murdered toddler james bulger will be released from prison.,TranS2S,yes.,yes.,Unsupported,0.0556500738064504
+37278170,"women who pay men as men are more likely to get women into work than men, a study suggests.",TranS2S,no.,yes.,Contradicted,0.07547269264294747
+40642906,featherstone head coach lee duffy has been ruled out of the rest of the super league season with a shoulder injury.,PtGen,no.,yes,Contradicted,0.05258562424077367
+38728777,a millionaire accused of murdering his wife has told a murder trial she had been ``unlawfully''killed.,PtGen,no.,yes.,Contradicted,0.06506152781781553
+37680168,"more than half of nhs trusts in england are struggling to cope with the amount of money they receive, the regulator has said.",TConvS2S,no.,yes.,Contradicted,0.09429490457518755
+22534665,the home secretary has said she wants to introduce new laws on the life of police officers convicted of crimes against humanity.,BERTS2S,no.,yes,Contradicted,0.12419063685070938
+16025568,french scientists say they have found a way to hide the earth's vast mountains of mont blanc.,TranS2S,no.,yes.,Contradicted,0.033490804344884044
+40642906,leigh centurions have appointed former scotland international matt duffy as their new head coach.,TranS2S,no.,yes,Contradicted,0.030079654981385685
+31920236,star wars actress daisy potts is to star in disney's live-action remake of the disney film.,TConvS2S,no.,yes,Contradicted,0.046135531614435774
+26381454,ukraine's president vladimir separatists and russian president vladimir separatists have called on russia to trigger a state tax opportunity for the first time.,PtGen,no.,no,Unsupported,0.06778554888792371
+40265040,national league side gateshead have signed defender paul cooper on a two-year deal following his release by national league rivals gateshead.,TConvS2S,no,no,Unsupported,0.06380312395616236
+34548835,a man from flintshire has pleaded guilty to making threats to kill a tennessee police officer.,TranS2S,no,yes,Contradicted,0.11088975715305244
+37573886,"the women's equality commission ( ehrc ) has criticised the company behind its controversial "" sexism "" campaign.",TranS2S,no.,yes.,Contradicted,0.028367816449713104
+25567298,"the government has announced it will cut up to 5, 000 jobs as part of a restructuring of the hedges.",TranS2S,no.,no.,Unsupported,0.035442495178845214
+37680168,spending on agency agency agency agency agency agency agency agency agency agency staff is set to save £600m a year.,BERTS2S,no.,yes.,Contradicted,0.010154444881433316
+35337082,eastenders actress mitchell mitchell is to return to eastenders after the death of eastenders actress mitchell mitchell.,TConvS2S,yes.,yes,Unsupported,0.030138461717280067
+32296663,a golfer has said he was surprised to have been attacked by a crocodile at his golf course in australia.,BERTS2S,no.,yes.,Contradicted,0.19923280772063895
+37576755,people in the uk are being encouraged to sign a virtual reality film for the first time.,TConvS2S,yes.,yes.,Unsupported,0.062325126181609763
+38727050,steve ince scored his first goal of the season to give derby victory over derby at carrow road. double their season in the championship.,PtGen,"no. the information provided in the summary is mostly accurate, but there are a few minor inaccuracies and some incomplete statements.",yes.,Contradicted,0.0134524538122752
+35424211,st mirren have signed striker jeremy clarkson on a season-long loan from dundee.,BERTS2S,yes,no,Entailed,0.15884224326854016
+39553192,a scottish food company has reported a pre-tax profit of # both for the first half of 2016.,TConvS2S,yes,yes,Unsupported,0.09103744487117554
+35424211,"st mirren have signed st mirren midfielder jack clarkson on loan until the end of the season, with the option of a further 12 months.",PtGen,no.,yes,Contradicted,0.1411393170124127
+32194983,voters in holyrood go to holyrood on the second stage of the scottish independence referendum.,TranS2S,"the information provided does not explicitly state that all information is accurate given the source. however, one statement can be verified as true. for example, it is mentioned that ""policy guide: where the parties stand summary: voters in holyrood go to holyrood on the second stage of the scottish independence referendum."" this suggests that the summary provided does contain factual information about the content and context of the text.","the summary contains information that conflicts with the source, specifically:
+
+- the ranking of one score (6.8) meant it should not be implemented, while 10 scored it as an important priority and should be done quickly.
+- this statement contradicts the fact that many of those questioned seemed to favour giving holyrood full control of income tax rates and bands as well as some welfare benefits, which scored a high average score (7.3 out of 10).",Unsupported,0.06405284232276766
+35504758,bernie sanders and bernie sanders have clashed over social media in the run-up to general elections in vermont on tuesday.,PtGen,no.,no.,Unsupported,0.06765328444429346
+38592703,bus firm first first has reopened after a crash which left one of its vehicles with serious injuries.,BERTS2S,no.,yes,Contradicted,0.07329365396728608
+33055691,four british teenagers who were arrested in turkey on suspicion of terrorism offences have been released on bail.,BERTS2S,no,yes,Contradicted,0.1394949941631072
+38479017,league two side mansfield town have signed mansfield town midfielder marcus bignot on loan until the end of the season.,TConvS2S,no,no,Unsupported,0.056636946030691915
+34658160,work has begun on a new nuclear power station in north yorkshire.,TConvS2S,no.,no,Unsupported,0.09374401089115084
+33557471,a crime thriller about female crime writer hilary manski has won a prestigious award for fiction.,TranS2S,yes.,yes,Unsupported,0.062325126181609763
+33210810,a man has died following a two-vehicle crash on the a9 between dumfries and galloway.,TranS2S,no,yes,Contradicted,0.10539922456186433
+34774405,the head of the world anti-doping agency (wada) says the country's athletics governing body should be banned from athletics.,TConvS2S,"no. the information provided is accurate as it is based on a report by the world anti-doping agency (wada) and quotes from individuals involved in the controversy, including the head of wada and the president of the international association of athletics federations (iaaf).",yes.,Contradicted,0.17057935121575618
+38324244,star wars: the new york city of fett has been speaking to the bbc about how he's first film about the darth vader costume.,PtGen,no.,yes,Contradicted,0.019959251675680568
+37904959,barrow and barrow played out a goalless draw in the fa cup first round.,TranS2S,yes.,no,Entailed,0.027602642999289148
+35644259,a man has died after being hit by a car in lincolnshire.,TConvS2S,no.,no,Unsupported,0.18104957775033903
+33645248,"valtteri bottas will remain in formula 1 at the end of the season, bbc sport understands.",TConvS2S,no.,yes.,Contradicted,0.028590307991662876
+34475490,a former football football football player has appeared in court accused of stealing millions of pounds worth of money.,TConvS2S,no.,no.,Unsupported,0.16165907687172879
+37543139,the football association will meet uefa to discuss its bid to join the island of kosovo.,TranS2S,no.,yes.,Contradicted,0.053622782745073524
+38329461,"the evacuation of the syrian city of aleppo could take days in geneva, the us secretary of state has said.",PtGen,"no. the information provided is not accurate. while some details are consistent with known events, there are inaccuracies and exaggerations. for example, it's reported that ""3,000 civilians and more than 40 wounded"" were evacuated from aleppo, but no mention is made of the icrc head marianne gasser saying how many people are left in the east or that the evacuation could take days. additionally, the us secretary of state john kerry does not claim to have a plan to end the conflict; rather, he expresses his willingness to continue efforts towards a peace deal despite not having received new information about the situation on the ground.",yes.,Contradicted,0.055324952588986245
+36427547,it's almost a month since her family voted to leave the european union.,BERTS2S,yes.,yes.,Unsupported,0.06845075995307223
+36914884,an elephant has been hit by a stone at a zoo in western france after it was hit by a tree.,BERTS2S,no.,yes,Contradicted,0.19385884264329528
+22839609,the national security agency ( nsa ) has released details of its data details.,TranS2S,"no. the summary contains speculation about what the us government could see, how much they know, why every call matters, what can be learned from phone records, and whether other governments are involved, but it does not directly quote or cite ed snowden as saying that he had acted over concerns about privacy to justify his actions.",no.,Unsupported,0.018713396429494666
+37970725,"more than a third of children in the uk have been sexually abused, according to a new report.",TConvS2S,no.,yes.,Contradicted,0.17772123309929025
+30453069,"ukraine's cyber troops have been evacuated from ukraine and other cyber attacks in ukraine, the ukrainian government has said.",PtGen,no.,yes.,Contradicted,0.0759162135601666
+34182164,gateshead came from behind to beat wrexham in the first round of the efl cup in the first round.,PtGen,yes.,yes.,Unsupported,0.09709831568740805
+32703353,russian president vladimir putin has called for an end to russia's war war against pro-russian separatists in eastern ukraine.,TConvS2S,yes.,yes.,Unsupported,0.10622588092558728
+38802811,a horse has died after suffering severe brain injuries in a horse race at the cheltenham festival.,TranS2S,no.,no.,Unsupported,0.08081238867682221
+34737471,"a 14-year-old boy who went missing in the us state of ohio has been arrested on suspicion of murdering his father, police say.",TranS2S,no.,yes,Contradicted,0.1925381549234968
+37554205,a mother has been given a ``bone marrow transplant''after she was taken to hospital with a bone marrow transplant.,PtGen,no.,yes,Contradicted,0.05900824347034317
+35307918,former nfl footballer john phillips has been found guilty of killing his former girlfriend.,TConvS2S,no.,yes,Contradicted,0.1251646760876602
+37839562,the restoration of glasgow school of art's (gsa) mackintosh building in glasgow has been given the go-ahead by the scottish government.,TConvS2S,no.,yes,Contradicted,0.0990134083638263
+38693675,a man has been found guilty of murdering his mother and his mother to death in a ``savage accident''.,PtGen,no.,yes,Contradicted,0.0710386453013026
+40899859,the family of a man who has gone on trial in england and wales has called for a change in the law in england and wales.,TConvS2S,no.,yes.,Contradicted,0.10705902083552724
+35773812,argos has reported a fall in sales as a result of a potential takeover by argos.,BERTS2S,no.,no.,Unsupported,0.12664007768218774
+40639020,"a police officer has been charged with murder in the us city of the us city of dallas, where he was killed.",PtGen,no.,yes.,Contradicted,0.09959526805581148
+37838086,"the bank of england's governor of the bank of england, mark carney, has announced he will step down at the end of the year.",TConvS2S,no.,yes.,Contradicted,0.15993179873952384
+38630833,a motorcyclist had to be airlifted to hospital after falling on rocks at a beach on anglesey.,TranS2S,no.,no,Unsupported,0.09374401089115084
+40764446,"a kenyan police officer has been shot dead by a gunman who broke into his farm home, police say.",BERTS2S,no.,no,Unsupported,0.16324551245395838
+37761972,a woman who lost her hair at the age of five has told newsbeat that she's going to go head-to-head.,TranS2S,no.,yes.,Contradicted,0.07832605286299588
+36368433,zlatan ibrahimovic's shirt is worth more than £20m-and now manchester united's zlatan ibrahimovic could win the,TranS2S,no.,yes.,Contradicted,0.06647445768939386
+38159550,"a woman jailed for two years for stealing more than £200, 000 from a dumfries and galloway pensioner has lodged an appeal against her",BERTS2S,no,yes.,Contradicted,0.06686509980661001
+30280942,an 18th century museum in london is to reopen as part of an art collection campaign to save it from being sold at auction.,TranS2S,no.,yes,Contradicted,0.07459340914038882
+34658160,work has begun on a new nuclear power station in north yorkshire.,TConvS2S,no.,yes,Contradicted,0.09374401089115084
+40849656,league one side colchester united have signed coventry city goalkeeper gordon reid on a season-long loan deal.,BERTS2S,no.,yes,Contradicted,0.07173578051202015
+38722314,liverpool have appointed former liverpool captain steven gerrard as their new manager.,TConvS2S,no,yes,Contradicted,0.06380312395616236
+27493801,the northern ireland assembly has announced plans for a new planning application for northern ireland's planning applications.,TConvS2S,no.,no.,Unsupported,0.10747803799574933
+26952321,"stephen paul copoc, a member of the family of stephen paul paul, travelled by car with friends and friends, who all survived.",BERTS2S,no.,yes.,Contradicted,0.0552170014962666
+39405778,"construction work has started on a new # [UNK] power station in brighton, which would create a new power station in brighton.",PtGen,no.,no.,Unsupported,0.023471857585985273
+24040346,tesco has confirmed it will buy a stake in the company to buy a stake in the company's business.,PtGen,no.,yes,Contradicted,0.0894511600870243
+37970725,"children in the uk are being urged to avoid bullying in the past year, according to new figures.",PtGen,no.,no.,Unsupported,0.12763332812168127
+35792564,alloa athletic came from behind to beat alloa athletic and move three points clear of the relegation zone at the top of scottish league one.,PtGen,no,no,Unsupported,0.07832605286299588
+35864106,"a moroccan football club has been fined £7, 000 after fans threw flares and flares at the team's stadium in london's al",TranS2S,no,no,Unsupported,0.07229841121175634
+37276607,glamorgan set up an unlikely one-day cup victory over gloucestershire after being set a target of 182 to spare in a rain-affected match.,BERTS2S,no.,no,Unsupported,0.05404335144262338
+28783667,uruguay's luis suarez has been given a one-match ban for biting uruguay's giorgio chiellini.,TConvS2S,no.,no.,Unsupported,0.05597710562304024
+37203942,you've been using your questions to tell us what you want to know about the west midlands.,TConvS2S,no.,no,Unsupported,0.0400832444953122
+36964876,southampton city council has been told to pay hundreds of millions of pounds a day of applying for a licence because of a lack of funding.,PtGen,yes.,no,Entailed,0.07711171996831671
+40122729,loch lomond has been described as the uk's best place to swim.,BERTS2S,no.,yes,Contradicted,0.04677062238395899
+34737471,"the father of a 12-year-old boy who went missing in ohio has been arrested in ohio, authorities say.",TConvS2S,no.,yes,Contradicted,0.1722533255919494
+39587051,tom latham won great britain's second gold of the track cycling world championships in hong kong.,BERTS2S,yes.,yes,Unsupported,0.05775400969745271
+19577896,"the us population has fallen to its lowest level since records began, according to official figures.",BERTS2S,no.,no,Unsupported,0.06791807191298417
+34832083,scots have been warned to change their accent in the way they use the country's national accent in scotland.,TranS2S,no.,yes.,Contradicted,0.07636234086119321
+29450120,"the world's biggest economy in the world, norway, afghanistan and norway have been taking part in a global survey of global economic data.",PtGen,no,no,Unsupported,0.10417128640179152
+34696683,hundreds of people have attended the opening of a church that was damaged during last year's floods.,BERTS2S,yes.,yes,Unsupported,0.1815807741749759
+38595401,exeter city manager brian churcher says his side are ``making 70-plus tackles''in the premier league title race.,PtGen,no.,no,Unsupported,0.0317704473470111
+38197928,barcelona boss luis enrique said his side's performance in their 2-1 win over real madrid at the nou camp was over.,TranS2S,no,no,Unsupported,0.026701197216817966
+34793274,the united nations has announced a new flight to flight flight mh370.,TConvS2S,no.,yes.,Contradicted,0.015666196140128895
+37263430,leeds united fought back from 2-0 down to beat huddersfield town in the first round of the efl cup.,PtGen,yes.,no.,Entailed,0.053832656382752
+30802827,"vlogtarter has released details of its latest version of rocks, which will be released this month.",TranS2S,no.,yes.,Contradicted,0.01210589808622102
+36886766,england's all-time leading wicket-taker james vaughan has been called up to england's world twenty20 squad for the first test against pakistan in sharjah.,PtGen,no.,no.,Unsupported,0.06582845251961858
+38329461,the us says it is ready to resume peace talks with the syrian government and its allies in geneva on wednesday.,TranS2S,no.,yes.,Contradicted,0.043255754605187734
+40138740,when rex tillerson announced on sunday he was standing down as president of the united states at the rose garden ceremony in new york on sunday night.,BERTS2S,no.,yes.,Contradicted,0.03265115658991408
+40639020,"a texas police officer has been charged with the murder of a teenage boy who was shot dead by a police officer in the us state of dallas, according",BERTS2S,no.,yes,Contradicted,0.11045743896036428
+27387425,"china says it has accused china of "" serious concerns "" over drilling drilling in disputed waters in the disputed south china sea.",TranS2S,no.,no.,Unsupported,0.03127789221520036
+31078095,"russian sprinter elena chernova should be banned for two years for anabolic sterina chernova's doping use, says the country '",BERTS2S,no.,yes.,Contradicted,0.032971577549983595
+39738747,a mother accused of murdering her six-year-old daughter has told a jury she was ``too scared''to kill her daughter.,TConvS2S,yes.,yes.,Unsupported,0.09920698290313727
+37018844,novak djokovic lost to japan's gustavo [UNK] in the second round of the rogers cup in montreal. died.,PtGen,no.,no,Unsupported,0.014545570713870156
+37576755,people in the uk are being encouraged to sign a virtual reality film for the first time.,TConvS2S,no.,no.,Unsupported,0.062325126181609763
+26668081,the owners of a cat that crashed into a house in the scottish borders have said they are ``upset''by the scottish government.,PtGen,no.,yes.,Contradicted,0.06966463352242012
+13569129,the angolan state of angola has passed a controversial law which would allow people to be banned from entering the country.,TConvS2S,no.,yes.,Contradicted,0.07187602637259796
+35424211,st mirren have signed forward jeremy clarkson on loan from dundee until the end of the season.,TConvS2S,no.,yes.,Contradicted,0.14196873275398658
+36469756,widnes vikings moved up to third in super league with a flynn victory over widnes vikings.,TConvS2S,no.,no.,Unsupported,0.022616795160668897
+24040346,supermarket giant teca has agreed to sell its yuca & easy & easy & easy & easy & easy & easy & easy & easy & easy &,BERTS2S,no,yes,Contradicted,0.04350995027895625
+29724093,france's olympic gold medallist chris froome has won the rio 2016 olympic games for the rio olympics.,TConvS2S,no.,yes,Contradicted,0.06647445768939386
+38213922,manchester city have been charged by the football association for failing to control their players at the etihad stadium.,TConvS2S,no,yes,Contradicted,0.050177553184697174
+36570567,manager chris coleman says wales are capable of reaching the last 16 of euro 2016 after their 1-0 defeat by england.,BERTS2S,yes.,yes.,Unsupported,0.046135531614435774
+39255356,disney has said it is ``disappointed''that a new film about the disney film will be screened in malaysia.,TConvS2S,yes.,yes.,Unsupported,0.07300790909028257
+39738747,a former soldier has told a court she believes the parents of three-year-old alice alice ingles should be jailed for four years.,TranS2S,yes.,yes.,Unsupported,0.055758871570083794
+37471830,a woman has been conned out of a computer treatment after being rescued from a computer fault in stranraer.,PtGen,no.,yes,Contradicted,0.0529980584033558
+32843295,the snp has taken control of the scottish parliament for the first time since the general election.,TConvS2S,no.,yes,Contradicted,0.1397677115624728
+36686216,britain's chris jung won gold in the cross-country conditions at the cross-country horse trials in the cross-country dressage final in rio.,PtGen,no.,yes.,Contradicted,0.048349622005182585
+30453069,pro-russian rebels in eastern ukraine are increasingly using their own forces to attack russian troops in the aftermath of the ukraine conflict.,BERTS2S,no.,no,Unsupported,0.05866350301188083
+37207414,great britain's hopes of qualifying for the eurobasket finals suffered a setback with a 2-0 victory over hungary in the first round of qualifying,TranS2S,no.,yes.,Contradicted,0.07007402294627138
+38693675,a man has been found guilty of murdering his mother and his mother to death in a ``savage accident''.,PtGen,yes.,no,Entailed,0.0710386453013026
+40642906,castleford tigers have appointed former scotland international kevin duffy as their new head coach.,BERTS2S,no.,no,Unsupported,0.05207459208953552
+37429966,the turkey co-founder bernard matthews has been given the green light by the unite union.,TranS2S,yes.,yes,Unsupported,0.042171289840777684
+26625099,a british man and his wife have won one of the world's most successful men's athletics championships.,BERTS2S,no.,no,Unsupported,0.18588683814266255
+33557471,the author of the crime novel novels has been awarded the freedom of the book awards for the year award.,PtGen,yes.,yes.,Unsupported,0.02572849233534768
+39270960,the liberal democrats and lib dems have clashed in the house of lords during their latest round of campaigning.,BERTS2S,yes.,yes.,Unsupported,0.06570000679939665
+34775703,a man has been taken to hospital after being hit by a car in the a96 area of glasgow.,PtGen,no.,no,Unsupported,0.16549271140230987
+35013353,the belfast giants came from behind to beat nottingham panthers 5-2 in the first of a elite league campaign.,BERTS2S,no.,yes,Contradicted,0.041355623259213055
+32282102,chris hart has won the prestigious comedic comedic award for the first time in the uk's history list.,PtGen,no.,yes.,Contradicted,0.047414455662160855
+35773812,argos has reported a fall in sales as a result of a potential takeover by argos.,BERTS2S,no.,yes.,Contradicted,0.12664007768218774
+36882573,two of the uk's longest-serving journalists are celebrating 100 years on the streets of fleet street.,BERTS2S,yes.,yes,Unsupported,0.08321496121711301
+36987557,"a woman's body has been found in a park in somerset, prompting a police appeal to trace it.",PtGen,no.,no,Unsupported,0.09522026425641177
+36686216,germany's alexander jung has won olympic gold in the dressage at rio 2016.,BERTS2S,no.,no,Unsupported,0.03969371167224909
+18644660,"ben parkinson's disease is ``absolutely bouncing and buoyed''and ``bouncing''and ``bouncing and buoyed''by the brain, according to a charity.",PtGen,no.,yes.,Contradicted,0.06269138444220528
+30453069,"ukrainian hackers have hacked the servers of more than 1, 000 ukrainian government troops in the eastern city of kiev, in what they claim to be a",TranS2S,no.,yes.,Contradicted,0.049592966983131634
+37278170,"a pay rise in male and female workers has a ``popular theory'', a study has found.",PtGen,yes.,yes.,Unsupported,0.0766612146129411
+36249926,the chief executive of barnet council has been sacked after the council said it was ``put up''by the council.,PtGen,no.,yes.,Contradicted,0.07924933558859634
+33548633,"the bodies of a man and a woman have been found at a house in county durham, police have said.",PtGen,no.,no,Unsupported,0.19048094322187165
+39206355,ireland reached the semi-finals of the intercontinental cup with a six-wicket victory over afghanistan in the intercontinental cup in dubai.,TConvS2S,no.,yes,Contradicted,0.12394831373381165
+38345826,the house of lords has called for the uk to stay in the eu for the first time since brexit.,TConvS2S,yes.,no.,Entailed,0.07832605286299588
+33055691,four british teenagers who were arrested in turkey on suspicion of terrorism offences have been released on bail.,BERTS2S,no,no,Unsupported,0.1394949941631072
+40944669,west ham reached the efl cup fourth round for the first time in their history with a comfortable win at cheltenham town.,BERTS2S,no.,yes.,Contradicted,0.09882021153081355
+34148931,australia's executive committee has said it is ``inhumane''and ``ruthlessly effective''the country's ``genocide''scandal.,PtGen,no.,yes.,Contradicted,0.03977131421191992
+37201780,a man has been arrested on suspicion of murder after a man was found dead at a house in rotherham.,TConvS2S,no,no,Unsupported,0.2548226413322821
+35933239,the fbi has said it will help the san bernardino killer to access iphones used by the san bernardino victims.,BERTS2S,no.,yes,Contradicted,0.08112867942327083
+35970356,salford red devils have signed wolves winger jordan 23-year-old on a season-long loan deal.,TConvS2S,no.,yes,Contradicted,0.050177553184697174
+36892561,ukip leadership candidate suzanne evans has announced she will not stand in the party's leadership contest.,TConvS2S,yes.,yes.,Unsupported,0.05414900801006408
+36053198,the family of a man who died after being hit by a car in kinross have said they are ``devastated''by her death.,PtGen,no.,yes,Contradicted,0.1309155100903843
+34768820,two teenagers have been arrested on suspicion of murder after a boy was stabbed to death in north london.,TConvS2S,no,yes,Contradicted,0.2815125851335893
+35105472,"more than 1, 000 jobs are being lost at wales 'biggest steelworks, a charity has warned.",TranS2S,no.,yes.,Contradicted,0.026753398954296834
+39405778,plans have been submitted for a glass tower on the edge of southampton seafront.,BERTS2S,no.,yes,Contradicted,0.04283539102391491
+28160767,"a german national has been arrested in germany on suspicion of spying for the us, prosecutors say.",BERTS2S,no.,yes.,Contradicted,0.1213137638466268
+12402158,"the last british man known as "" the imran "" has died aged 93, his family has announced.",TranS2S,yes.,yes.,Unsupported,0.021163680509403017
+39328391,crawley town have signed right-back glenn groves from non-league side leway town.,TranS2S,no.,no,Unsupported,0.011871748821495196
+34578307,a singapore museum has said it will return a bronze sculpture stolen from an indian temple more than 20 years ago.,BERTS2S,no.,yes,Contradicted,0.11827230720044336
+34032798,a four-year-old boy is being treated in hospital after being hit by a car in north lanarkshire.,TranS2S,no.,no,Unsupported,0.21395443921315524
+39600124,russia's state tv agency has warned that a report by russia's state-run chechen leader chechen chechnya will be investigated by,TranS2S,no.,yes.,Contradicted,0.025428746320412147
+39206355,afghanistan beat ireland by 46 runs in the one-day twenty20 international in nagpur.,TranS2S,no.,yes,Contradicted,0.02921119873238083
+25840979,bristol's mayor has announced it will sign a # [UNK] m upgrade to a new stadium stadium in bristol.,PtGen,no,no,Unsupported,0.03435204424010438
+21326309,"three former royal navy frigates could be put up for sale in the future, the bbc understands.",BERTS2S,no.,yes.,Contradicted,0.04225373612899232
+35083545,scotland's finance secretary john swinney has accused the uk government of failing to meet its budget targets for next year.,BERTS2S,no.,yes.,Contradicted,0.11485756310394325
+35105472,the welsh government has called for the uk government to take action to protect the uk's steel industry.,TConvS2S,no.,yes.,Contradicted,0.10685012525145778
+35733710,mohamed el bakhtaoui scored twice as ayr united came from behind to beat ayr united.,BERTS2S,yes,yes,Unsupported,0.07532542889919286
+38921269,torquay united have signed former port vale striker james keatings on a two-and-a-half-year deal.,TranS2S,no.,no,Unsupported,0.09596708604499847
+37207414,great britain's men lost their opening eurobasket finals warm-up warm-up match against the netherlands in amsterdam.,BERTS2S,no.,no.,Unsupported,0.05268843090256823
+40883148,conor mcgregor's fight against ufc champion conor mcgregor in las vegas on 9 august will be discussed by the nevada authorities.,BERTS2S,yes.,yes.,Unsupported,0.05027565198668759
+34279049,a new portrait of mozart music is being commissioned by the royal orchestra for the first time.,TranS2S,yes.,yes.,Unsupported,0.07621334121902747
+27775709,a primary school in birmingham has been rated ``inadequate''by a senior ofsted inspector who has been rated ``inadequate''by ofsted.,PtGen,no.,yes,Contradicted,0.0400832444953122
+36666227,defender ryan sweeney has signed a new two-year contract with league two side hartlepool united.,TranS2S,no.,yes,Contradicted,0.08240627022485114
+37863033,"one of the most popular characters in the us has died, according to a new report.",TranS2S,no.,yes,Contradicted,0.13220024477706027
+36664885,plans to reduce the number of public patrol patrols in dumfries and galloway have been approved by the authority.,BERTS2S,no.,no,Unsupported,0.0392312659239061
+40917946,scotland's olympic gold medallist laura muir believes she will be able to compete at this year's world indoor championships.,PtGen,no.,yes.,Contradicted,0.14196873275398658
+21267591,the leader of bahrain's main opposition party has said there needs to be dialogue between the kingdom's crown prince and government.,BERTS2S,no.,yes.,Contradicted,0.10768816117032609
+37276607,nick selman's century led glamorgan to a nine-wicket victory over gloucestershire in cardiff.,TranS2S,no.,yes.,Contradicted,0.09843494803717008
+13193011,knitwear brand hawick knitwear has made its new full-year profit for the first time in more than two years.,TranS2S,no,yes.,Contradicted,0.10116366531376725
+35419902,wales coach warren gatland says he is disappointed that wales will face australia in the final of the world cup.,TConvS2S,no.,yes.,Contradicted,0.04393693362340741
+22021705,three canadian fugitives have been arrested and charged with attempting to smuggle drugs into the us.,BERTS2S,no.,yes.,Contradicted,0.15038881328299955
+38778996,sean guthrie scored his first goal of the season as colchester united came from behind to beat colchester and move into the league two play-off places.,PtGen,no.,yes.,Contradicted,0.0673895292841121
+37618111,"the number of recorded homicide in scotland has fallen to its lowest level since records began last year, according to a new report.",PtGen,no.,yes.,Contradicted,0.18034373233909923
+30280942,a collection of items worth up to # [UNK] has been put up for sale at a museum in staffordshire.,PtGen,no.,yes,Contradicted,0.04930323285161381
+35820385,former snp leader alex salmond has been sworn in as the new leader of scotland.,TConvS2S,no.,yes.,Contradicted,0.09882021153081355
+36362101,barnsley have signed striker dominic jackson on a two-year deal after he rejected a new deal at national league rivals wrexham.,TConvS2S,no.,no,Unsupported,0.07117752823912599
+27838706,ed sheerin has been appointed aberdeen's manager on a two-year contract after agreeing a one-year deal with arbroath.,TranS2S,no.,yes,Contradicted,0.10478345674943497
+29360284,plans to improve parking at a birmingham park are being investigated by councillors.,BERTS2S,no,no,Unsupported,0.11643866503524561
+35864106,"at least 31 people have been arrested in morocco after fans clashed with supporters of the moroccan club raja fmrff on saturday, police say.",BERTS2S,no,no,Unsupported,0.06570000679939665
+34775703,a man has been taken to hospital after being hit by a car in moray.,TConvS2S,no,no,Unsupported,0.20920238945240033
+36914884,"a 12-year-old girl has died after being hit by a elephant at a zoo in rabat, rabat, texas.",PtGen,no,yes,Contradicted,0.14733607715823796
+36957139,league one side nottingham forest have signed nottingham forest midfielder gary wilson on a season-long loan deal.,BERTS2S,no,yes,Contradicted,0.12155093632999794
+29450120,"norway is one of the world's best-known and most vulnerable countries, according to a new report.",BERTS2S,no,yes.,Contradicted,0.17360432516870097
+39856848,world heavyweight champion gordon adams has been knocked out of the olympic games in rio because of a bout.,PtGen,no,no,Unsupported,0.0673895292841121
+35307918,former nfl star tom phillips has been jailed for three years for assaulting an american football player.,TranS2S,no.,yes.,Contradicted,0.11110655035318481
+39006759,"care homes in wales are ``chemically coshed coshed''drugs, the health minister has told the bbc.",PtGen,yes.,yes,Unsupported,0.03239706327345691
+21326309,bids for a new royal navy aircraft have been submitted to the public for the first time in the uk.,PtGen,no.,no.,Unsupported,0.06111964911865825
+26327476,barcelona have agreed a deal to sign neymar in connection with the club's tax evasion scandal.,TranS2S,no.,yes,Contradicted,0.05843479568804885
+35074007,it's been a busy year for many of the world's most famous characters.,TConvS2S,no.,no.,Unsupported,0.11689439308489846
+39183253,police are investigating a suspicious fire at a house in county antrim.,TranS2S,no.,no,Unsupported,0.11110655035318481
+39552691,"a man suspected of carrying out a suicide bomb attack at the swedish capital stockholm on sunday has been arrested, swedish police say.",TranS2S,no.,yes.,Contradicted,0.1051935676036418
+28160767,"german prosecutors have arrested a man accused of spying on foreign intelligence about the us, us media report.",PtGen,no.,yes.,Contradicted,0.07229841121175634
+31091373,tributes have been paid to a 16-year-old boy who has been missing for three days at the age of 10.,PtGen,no.,yes.,Contradicted,0.2000125828826258
+34148931,australian prime minister tony abbott has called for a ban on migrants entering the mediterranean sea.,TConvS2S,no.,yes.,Contradicted,0.09653104379627267
+40007645,"hungary's prime minister, viktor orban, has warned that a new european law on human rights should be lifted.",TranS2S,no.,yes.,Contradicted,0.08289053682876897
+38329461,syrian president bashar al-assad has urged the syrian government to end a ``humanitarian pause''in aleppo.,TConvS2S,no.,yes.,Contradicted,0.0579800525002544
+39705629,brighton & hove albion defender sid sidwell has signed a new three-year contract with the championship club.,TranS2S,no.,yes,Contradicted,0.03817306945803752
+35733710,ayr united moved to within a point of scottish league one play-off places with victory over bottom side ayr united.,TranS2S,no,yes,Contradicted,0.0648078769591442
+26952321,"stephen paul copoc, a member of the family of stephen paul paul, travelled by car with friends and friends, who all survived.",BERTS2S,no.,yes.,Contradicted,0.0552170014962666
+28309684,tom owens scored two tries as warrington fought back to beat widnes vikings in super league.,BERTS2S,yes.,yes.,Unsupported,0.02479122237384571
+26668081,a dog that was shot in the leg by a dog in fife has been named as shot one-year-old.,TConvS2S,no.,no,Unsupported,0.06966463352242012
+32221351,"a bar in county londonderry has been fined £2, 000 after the death of its owner, who was found dead at the weekend.",BERTS2S,no.,yes,Contradicted,0.07696125812347947
+36258221,a woman has been sentenced to six years in prison for sex offences against a woman and a woman.,PtGen,no,no,Unsupported,0.21291228619240427
+37949101,a homeless man has been banned from driving for three years after he drove away from a pub in dumfries.,BERTS2S,no.,yes,Contradicted,0.16646524168556714
+27493801,northern ireland's councils have voted to reject the government's plans for a new community in northern ireland.,TranS2S,yes.,no.,Entailed,0.15009537178929738
+38595401,redruth head coach marek churcher says his side are capable of reaching the top of the table with a 2-0 win at home to plymouth.,TConvS2S,no.,yes,Contradicted,0.05889310547086915
+36960270,manchester united's wayne rooney will make his first appearance in the united states next month.,TConvS2S,no.,yes,Contradicted,0.05608654274486039
+39553812,mae 'r pleidleisio yng nghymru wedi cadarnhau eu bod yng nghymru y,BERTS2S,no.,no.,Unsupported,0.04419513229657045
+37276607,glamorgan moved to within two points of glamorgan at the top of the one-day cup with a century victory over glamorgan.,TConvS2S,no.,no.,Unsupported,0.060644012235704585
+36987557,a human limb has been found in a park in bristol.,BERTS2S,no.,yes,Contradicted,0.11896734325036051
+34769201,"the world's most deadly drug lord, the world's most deadly drug crash in the mediterranean sea, is one of the most survivors of the world war.",PtGen,no.,no.,Unsupported,0.07117752823912599
+33210810,a man has died following a two-vehicle crash on the a9 between dumfries and galloway.,TranS2S,no,no,Unsupported,0.10539922456186433
+38329319,"a cat has died after being hit by a charity by a group of men, it has emerged.",PtGen,no.,yes,Contradicted,0.08469065618478049
+38620027,ghana stunned egypt 1-0 in their final africa cup of nations qualifier on sunday as they beat uganda 1-0 in the final round of euro 2017.,PtGen,yes.,yes,Unsupported,0.034893010222154484
+37902151,"a decision has been made to close a well-loved and historic historic barracks in pembrokeshire, the defence secretary has said.",PtGen,no.,yes.,Contradicted,0.26214245869880437
+35794194,the head of lebanon's education department has warned that international efforts to tackle the migrant crisis could lead to the end of education in the future.,BERTS2S,no.,yes.,Contradicted,0.0740129186250794
+39062234,the parents of a terminally ill five-year-old in the uk have said they are ``overwhelmed''by the treatment of a terminally ill baby.,TConvS2S,yes.,yes.,Unsupported,0.10705902083552724
+36790360,former england under-21 world champion shaun mckenzie will fight for the vacant wbc world title at york's alexandra palace on 29 april.,BERTS2S,no.,no,Unsupported,0.04428153526476906
+34696683,"the town of skegness has said it is "" heartbroken "" after two floodlights were stolen from a church.",TranS2S,no.,yes,Contradicted,0.056858616769918005
+33210810,a man has been taken to hospital after being hit by a car in aberdeenshire.,TConvS2S,no,yes.,Contradicted,0.15607449166991075
+38048733,us president-elect donald trump has announced that us president donald trump will be the next president of the white house.,TConvS2S,no.,yes.,Contradicted,0.07386850321996727
+35412241,"a # 1m training site has been severely damaged by flooding in leeds, the company has said. is the best part of the super league season.",PtGen,no.,yes,Contradicted,0.039078317712849225
+38016892,rory mcilroy missed the cut at the dubai desert classic as world number one rory mcilroy missed the cut.,BERTS2S,no.,yes,Contradicted,0.03258744703631306
+37201780,three people have been arrested on suspicion of murder after a man died following a head-on crash in south yorkshire.,TranS2S,no,no,Unsupported,0.21732373137271177
+31091373,a schoolboy from west lothian who was diagnosed with cancer has died from his cancer.,BERTS2S,no.,yes.,Contradicted,0.11643866503524561
+39255356,beauty and the beast is to be removed from malaysia's lpga film after the film's release for a screening screening of the beast.,TranS2S,no.,yes.,Contradicted,0.06392786120670757
+37895159,"bournemouth manager eddie howe says his side's "" lack of confidence "" in their bid to win a top-six premier league away from premier league relegation",TranS2S,no.,yes,Contradicted,0.03530431798508576
+35243864,"the oldest image of the oldest image of children dressed in the street in liverpool, has been unveiled in liverpool.",PtGen,no.,no.,Unsupported,0.04649737707355894
+28360838,"bolivia's parliament has approved a law banning child labour in the country's capital, la paz.",BERTS2S,no.,no,Unsupported,0.15290634220138646
+32926574,imax's shares rose 5% on reports that it has filed for listing its shares in china and hong kong.,TranS2S,no.,no,Unsupported,0.06818389573052552
+38973171,danny nesbitt's resignation as ulster unionist party leaders have said they are ``very confident''ulster unionist leader.,PtGen,no.,yes.,Contradicted,0.028423276483775694
+34802406,"young girls in scotland are more likely to be linked to violent crime, according to a new study.",TConvS2S,no.,yes.,Contradicted,0.13868003060186918
+31111562,a huge billboard in a county londonderry park has been marked by a huge crowd of people.,BERTS2S,no.,yes.,Contradicted,0.08737902619542039
+36824899,"it is a sheep, a sheep, a sheep, a sheep, a sheep and a sheep.",TConvS2S,no.,no.,Unsupported,0.1527570924892777
+28783667,"luis suarez's four-month ban for biting a spanish footballer has been extended to four months, the court of arbitration for sport has confirmed.",BERTS2S,no.,yes.,Contradicted,0.07576808441001909
+32185834,a kenyan woman has described how she escaped from the ground where she was hiding in a wardrobe in the north-eastern city of chernobyl.,TranS2S,no.,yes,Contradicted,0.08452540617641245
+38713957,"one of australia's most famous oldman, walter, has been destroyed in a fire in australia.",TConvS2S,no.,yes,Contradicted,0.021835487843993816
+40679217,two senior councillors at aberdeenshire council are to leave the authority.,BERTS2S,no.,yes,Contradicted,0.04882409929541996
+34475490,"the former captain of the county antrim football team has appeared in court charged with stealing more than £50, 000.",BERTS2S,no,yes.,Contradicted,0.09615470492184709
+37092547,"you're not afraid to think you're going on the table,  says laura trott and laura trott.",TranS2S,yes.,no.,Entailed,0.0648078769591442
+36462386,a farmer who built a mock-tudor castle without planning permission is to return to his home after more than four years.,TranS2S,yes.,yes.,Unsupported,0.07415761636715959
+27387425,china has accused the us of a stand-off with an oil rig in the disputed waters of the south china sea.,PtGen,yes.,yes.,Unsupported,0.12763332812168127
+33055691,"three teenagers have been arrested on suspicion of syria-related terrorism offences, police have said.",TConvS2S,no.,yes,Contradicted,0.1946175847006613
+39270960,the liberal democrats have said they are ready to dig a ``false''summer drinks 'gathering in the house of lords.,PtGen,no.,yes.,Contradicted,0.04300304400414736
+39938984,gosden [UNK] won the dante stakes at newbury for the first time since returning to the oaks at newbury.,PtGen,no.,yes,Contradicted,0.039384812757335554
+36307661,"the nhs in england could be reshaping its support staff to cope with a shortage of doctors, experts have said.",BERTS2S,no.,no,Unsupported,0.07924933558859634
+28713677,a man is in a critical condition in hospital after being hit by a burst water in the east of england.,TConvS2S,no.,yes.,Contradicted,0.10895755513728819
+33517280,men and women have been charged in connection with a protest against a planned airport airport in the republic of ireland.,PtGen,no.,no,Unsupported,0.15009537178929738
+30216408,"the number of children using tablet computers in schools is rising, according to research from the university of cambridge.",BERTS2S,no.,yes.,Contradicted,0.1704128511301867
+38946148,"mauricio pochettino says he is "" sad "" not ready to fight for the premier league title again after his side's 2-1",TranS2S,no.,no,Unsupported,0.03195714875455821
+35412241,leeds rhinos have been given # 1m to help save the grade ii-listed lido in leeds.,TConvS2S,no.,yes,Contradicted,0.015789067639311205
+37551923,a row has broken out over the government's plans to introduce a tax on the isle of wight.,TranS2S,yes.,yes.,Unsupported,0.06885301595819927
+35764147,former world champion williamson norfolk says she is ``lucky to be alive''after suffering a serious neck injury in a motorbike crash.,TConvS2S,yes.,yes.,Unsupported,0.045598036390537236
+36958859,league two side wycombe wanderers have signed torquay united midfielder angus macdonald on a two-year deal.,BERTS2S,no,yes,Contradicted,0.07272327822698031
+33627800,liverpool have signed striker christian benteke from aston villa for £12m.,BERTS2S,no.,no.,Unsupported,0.038623041521297245
+34578307,"one of india's most iconic artists, singapore item, has been stolen from a temple in the indian capital, delhi.",TConvS2S,yes.,yes,Unsupported,0.042919135652250404
+34769201,"weekend rebels is one of the world's most wanted drug traffickers, who has died at the age of 82.",TConvS2S,no.,no.,Unsupported,0.05248301817727987
+34802406,"young people in edinburgh are more likely to be living in violent crime than girls, according to new research.",TranS2S,no.,yes.,Contradicted,0.08980126202879174
+38097669,scotland's hopes of reaching the cyprus cup quarter-finals with a hard-fought win over georgia in the first test in perth.,PtGen,yes.,yes.,Unsupported,0.07503176288240997
+38168461,a soldier has been found guilty of the manslaughter of a soldier who was attacked in a bar in cardiff.,PtGen,no.,no,Unsupported,0.23201865524727103
+30891145,a british jihadist who travelled to syria to join so-called islamic state (is) in syria has been captured by the so-called islamic state (is).,TConvS2S,no.,no.,Unsupported,0.09503446867784349
+36486846,rangers have appointed ex-rangers boss walter smith as first-team coach.,TranS2S,no.,no,Unsupported,0.030792973442903954
+39270960,former lib dem leader nick clegg has urged the lib dems to ``guarantee''the government's future in the house of lords.,TConvS2S,no.,yes,Contradicted,0.02435924695002104
+19330169,"us tv star rosie o 'donnell has said she is "" lucky to be alive "" after having a heart attack in her new home.",BERTS2S,no.,yes,Contradicted,0.0344192036405134
+35266927,"a sinn fein mla has said he is "" totally disrespectful "" over comments he made about a dup mla on twitter.",TranS2S,no.,yes,Contradicted,0.02915420128954092
+40062271,a former labour councillor has denied possessing indecent images of a child.,BERTS2S,no.,no,Unsupported,0.0915724332177762
+39540625,derek mcinnes believes rangers can win the scottish cup again this season.,TranS2S,yes.,yes.,Unsupported,0.023888096464365276
+33055691,four british teenagers who were arrested in turkey on suspicion of terrorism offences have been released on bail.,BERTS2S,yes.,yes,Unsupported,0.1394949941631072
+29360284,the owners of a fosse park in cumbria have met in the city where new owners have said they are planning a ``better view''.,PtGen,no.,yes.,Contradicted,0.04000503331137926
+34769201,"weekend rebels is one of the world's most wanted drug traffickers, who has died at the age of 82.",TConvS2S,no.,no.,Unsupported,0.05248301817727987
+36987557,a human limb has been found in a park in bristol.,BERTS2S,no.,yes.,Contradicted,0.11896734325036051
+23602056,a byzantine gold coin found on a norwich gold coin has been discovered by a coroner's challenge. said.,PtGen,no,yes.,Contradicted,0.04300304400414736
+40415021,"cladding on a high-rise block in sheffield has been put up by a local authority, the bbc has learned.",PtGen,yes.,no,Entailed,0.08823651715095134
+40254741,mae 'r prif weinidog carwyn jones wedi dweud ei bod yn dilyn y llynedd ar gyfer yr etholiad cyffredinol.,TConvS2S,no,no,Unsupported,0.028202084791332783
+35739348,a pharmaceutical company is to create up to 100 new jobs in newcastle with the creation of 200 new jobs.,BERTS2S,no,yes,Contradicted,0.07062362031988585
+35864106,"at least 31 people have been arrested in morocco after fans clashed with supporters of the moroccan club raja fmrff on saturday, police say.",BERTS2S,no.,no,Unsupported,0.06570000679939665
+35733710,mohamed el bakhtaoui scored twice as ayr united came from behind to beat ayr united.,BERTS2S,no,yes,Contradicted,0.07532542889919286
+36591829,juventus have signed real madrid striker alvaro morata for an undisclosed fee on a three-and-a-half-year deal.,TranS2S,no,yes,Contradicted,0.18034373233909923
+39206355,ireland ran in nine tries as they beat afghanistan in the final of the first twenty20 international in afghanistan.,PtGen,no.,no,Unsupported,0.05096773466984271
+35266927,sinn féin mla tom elliott has apologised for a tweet about a member of the udr ``udr''.,PtGen,yes,yes,Unsupported,0.09085981088881574
+33675471,the open university of st andrews has launched a bursary scheme designed to help students cope with students.,TConvS2S,yes.,yes.,Unsupported,0.06208214354189936
+35521849,the president of the ad-hoc electoral committee (lfa) has said he is ``thereby barred''from president sepp blatter.,PtGen,no.,yes.,Contradicted,0.042919135652250404
+36415371,golden state warriors beat golden state warriors 4-1 to reach the last eight of the women's super league.,PtGen,no.,yes.,Contradicted,0.05404335144262338
+40682974,the duke and duchess of cambridge have joined the duke and duchess of cambridge for the first time.,TConvS2S,no.,yes,Contradicted,0.12788285556549064
+37961975,"india's prime minister narendra modi has said he will no longer be able to withdraw money from banks, despite corruption and corruption.",TranS2S,no.,yes.,Contradicted,0.10832099869530831
+40000044,an edinburgh taxi driver who took thousands of people to a festival has revealed he has been given the chance to take up the art exhibition.,BERTS2S,no.,yes,Contradicted,0.09690885561940647
+29360284,"more than 100 new parking units are needed to improve facilities at a west yorkshire park, the council has said.",TranS2S,no.,yes,Contradicted,0.063678630095297
+33652722,the number of people using plastic carrier bags in england has reached a record high.,BERTS2S,no,no,Unsupported,0.17651048487186197
+37929488,the scottish secretary of the scottish government has said the uk government is ``constructive and amicable''with the uk government.,PtGen,no.,yes.,Contradicted,0.06845075995307223
+32680434,the author of jk rowling has said she has been ``shocked''by comments she made about twitter about the scottish independence referendum.,TConvS2S,no.,yes,Contradicted,0.05086828546304573
+24522070,"older people living in residential care will be ``unacceptable variations''across wales, a report has suggested.",PtGen,no.,yes,Contradicted,0.046135531614435774
+34593064,a man has been charged with the murder of a man in a suspected sex attack on a father-of-two in cumbria.,PtGen,no.,no,Unsupported,0.18211352912101364
+30216408,"nearly half of pupils in the uk do not have a tablet tablet, according to a study from the university of cambridge.",TranS2S,no.,yes.,Contradicted,0.11919992840264731
+22839609,the head of the us national security agency (nsa) has said it is ``extremely concerned''about the us government's access to national security.,PtGen,yes.,yes.,Unsupported,0.05843479568804885
+35210598,wales and ospreys scrum-half rhys webb says he is still waiting to be fit for wales 'pre-season tour.,BERTS2S,no.,yes,Contradicted,0.0915724332177762
+21980945,manchester united manager sir alex ferguson says his side are capable of beating premier league leaders manchester city in the premier league.,TConvS2S,no.,no.,Unsupported,0.021413151278198653
+38595401,truro city head coach marek churcher has praised his side's performance in the first half of their national rugby league campaign.,BERTS2S,no,yes,Contradicted,0.04695367742425544
+35761017,the head of the international monetary fund ( imf ) has warned that china's economic growth is likely to be weaker than expected.,TranS2S,no.,no,Unsupported,0.09211056546336704
+39370900,bbc news ni (dup) vice-president [UNK] flanagan has warned of the dangers against the united states as part of the world's first national bailout programme.,PtGen,no.,no,Unsupported,0.028147056350679357
+40634994,a canadian family who survived a house fire has been reunited with their family.,BERTS2S,no.,yes,Contradicted,0.11919992840264731
+36054083,"drones could be used to smuggle drugs into a prison, a prison official has said.",BERTS2S,no.,yes,Contradicted,0.21817431240790136
+38334966,all pictures are copyrighted.,TConvS2S,yes.,yes,Unsupported,0.10417128640179152
+34490431,a caravan stolen from a cambridgeshire caravan park has been stolen from a caravan in cambridgeshire.,TConvS2S,yes,yes,Unsupported,0.14420441498581743
+29360284,the owners of a fosse park in cumbria have met in the city where new owners have said they are planning a ``better view''.,PtGen,no.,no,Unsupported,0.04000503331137926
+36987557,"a suspected human foot has been found in a park in bristol, police have said.",TConvS2S,no.,no,Unsupported,0.14350200812183378
+32189288,"in our series of letters from african journalists, novelist and writer adaobi tricia nwaubani looks at why kenya's government had a di",TranS2S,yes.,yes.,Unsupported,0.012686872265690003
+34182164,wrexham came from behind to beat gateshead and reach the second round of the national league.,TranS2S,no.,yes.,Contradicted,0.10981211983360685
+33721182,britain's storey storey retained her olympic 100m title with victory at the track cycling world championships in london.,PtGen,no,yes,Contradicted,0.0766612146129411
+40866012,"a 25-year-old man has appeared in court charged with the murder of karl haugh, who was stabbed to death in county limerick in the",BERTS2S,no,yes.,Contradicted,0.12590021565830278
+36249926,barnet council has apologised to the residents of the barnet borough council following a vote of no confidence.,TranS2S,no,no,Unsupported,0.1309155100903843
+35419902,wales coach warren gatland says warren gatland's hopes of winning the six nations title are over.,TranS2S,no.,yes.,Contradicted,0.03765472347884262
+17592709,"tributes have been paid to one of scotland's most prestigious sporting stars, raise millar, who has died at the age of 83.",TConvS2S,yes.,yes.,Unsupported,0.06818389573052552
+35864106,"at least 31 people have been arrested in morocco after fans clashed with supporters of the moroccan club raja fmrff on saturday, police say.",BERTS2S,no,no,Unsupported,0.06570000679939665
+15291712,it has been a momentous year for conservative mps.,TConvS2S,no.,no.,Unsupported,0.037216032662483516
+34687720,northern ireland's rory mcilroy is one shot off the lead after the first round of the fedex championship in california.,TConvS2S,no.,yes.,Contradicted,0.05775400969745271
+34104114,"china's state-run news agency xinhua says it has arrested more than 100 people in connection with the blasts in tianjin last month, state",BERTS2S,no.,yes,Contradicted,0.08419587284734237
+35494015,a police watchdog has referred its response to the police complaints commission's decision not to investigate the case of a student found dead in a house.,BERTS2S,no.,yes.,Contradicted,0.11643866503524561
+33335482,one of the most prominent groups in the city's anti-social music industry is looking to re-open a shop and sell it out.,BERTS2S,no.,yes.,Contradicted,0.10895755513728819
+30938477,"a hospital's a & e department in wrexham had to cope with "" unprecedented levels of pressure "", inspectors have said.",BERTS2S,no,yes,Contradicted,0.04713744892172244
+19577896,"the us population has fallen to its lowest level since records began, according to official figures.",BERTS2S,no.,no,Unsupported,0.06791807191298417
+17269989,work has started on a new £23m community hospital in somerset.,BERTS2S,no.,yes.,Contradicted,0.07243975703425147
+36914884,an elephant has died after being hit by a elephant at a zoo in the us state of idaho.,TConvS2S,no,no,Unsupported,0.1550112145879284
+35864106,police in the us state of ohio have arrested a football fan for allegedly abusing a football fan.,TConvS2S,no.,no,Unsupported,0.052176399666308326
+35309225,rescuers in the southern indian state of uttar pradesh are searching for the death of 10 whales after they were stranded on a beach on the southern island of,TranS2S,no,yes,Contradicted,0.0766612146129411
+36418721,scotland women's manager jayne evans says it would be a ``huge''place to qualify for the euro 2016 finals.,TConvS2S,yes.,yes.,Unsupported,0.044891104360926866
+36437817,northern ireland striker ryan washington is hoping for a place in the northern ireland squad for euro 2016 after scoring his first international goal.,BERTS2S,no,no.,Unsupported,0.0747392417609257
+36368433,zlatan ibrahimovic could become the world's most expensive shirt when he signed for manchester united this summer.,BERTS2S,no.,yes.,Contradicted,0.06293675158337987
+38534338,"a murder investigation is under way after a man's body was found at a house in glasgow, police have said.",PtGen,no.,no,Unsupported,0.28903400382413774
+36129628,the republic of ireland's two main political parties are to vote on whether to take control of water charges.,BERTS2S,no.,yes,Contradicted,0.0896260401097486
+40432797,"a council has said it has lost almost £30, 000 to build a new cemetery in oxford.",BERTS2S,no.,no,Unsupported,0.07488535948913438
+39933716,flights between the channel islands and the netherlands have been cancelled due to bad weather conditions in the netherlands.,PtGen,no.,yes,Contradicted,0.05248301817727987
+34593064,a man has been charged with the rape of a teenage boy in cumbria.,BERTS2S,no,yes,Contradicted,0.2391500589160043
+22839609,the national security agency ( nsa ) has released details of its data details.,TranS2S,"no. the information provided does not appear to be entirely accurate, as some points are disputed or speculative, such as the extent of prism's access, its purpose, and the involvement of other governments.",yes.,Contradicted,0.018713396429494666
+28328378,the owners of a recycling plant destroyed by fire in greater manchester have been stripped of their environmental permit.,BERTS2S,no,yes,Contradicted,0.0853548932337156
+38034979,ipswich town moved up to third in the championship with victory at ipswich town.,TConvS2S,yes.,yes.,Unsupported,0.04462883965030139
+33645248,"valtteri bottas is close to joining williams, bbc sport understands.",TranS2S,no.,yes.,Contradicted,0.018244232979788257
+17646549,"religious education in england's schools should be reduced to anti-rethink, the archbishop of canterbury mark williams has warned.",BERTS2S,yes.,yes.,Unsupported,0.03329514294971084
+38946148,"mauricio pochettino says he is "" sad "" not ready to fight for the premier league title again after his side's 2-1",TranS2S,no.,yes,Contradicted,0.03195714875455821
+35035707,malcolm turnbull has been sworn in as australia's president in the wake of the resignation of president tony abbott.,PtGen,no.,no,Unsupported,0.05197298316162991
+30453069,"ukrainian hackers have hacked the servers of more than 1, 000 ukrainian government troops in the eastern city of kiev, in what they claim to be a",TranS2S,no.,yes,Contradicted,0.049592966983131634
+38304362,a farmer has been jailed for six years for causing the death of a boy by careless driving.,TConvS2S,no.,yes.,Contradicted,0.1685920415790013
+15291712,it has been a momentous year for conservative mps.,TConvS2S,yes.,no.,Entailed,0.037216032662483516
+24978479,the sister of a woman who died after being hit by a lorry in london has appealed for people to come forward.,BERTS2S,yes.,yes,Unsupported,0.24102573607501024
+39587051,britain's laura latham won a bronze medal at the track cycling world championships in the czech republic in rio.,PtGen,yes.,yes.,Unsupported,0.05489441039218965
+38156376,police have appealed for help in tracing a woman who has been missing for six years.,TranS2S,yes.,yes.,Unsupported,0.16102882785920403
+36404868,formula 1 is one of the world's most powerful formula 1 teams.,TConvS2S,"no. the summary does not explicitly state that all information in it is accurate given the source. in fact, it implies that the author has made some assertions or interpretations about mclaren's current situation without providing any evidence to support these claims.",no.,Unsupported,0.04376563975259378
+26817428,a new service aimed at tackling the problem of estate agents in powys has been launched by powys council.,BERTS2S,no.,yes,Contradicted,0.17599412107233048
+39141044,number eight billy vunipola is expected to be fit for england's opening six nations match against italy at twickenham on saturday.,BERTS2S,yes,no,Entailed,0.05146790471528986
+29911712,a school has been sent back to school after being sent off by students at a school in london.,TConvS2S,yes.,yes.,Unsupported,0.0817649795422183
+38197928,barcelona boss luis enrique says his side deserved to win the la liga title despite a 2-1 draw at real madrid.,BERTS2S,no.,no,Unsupported,0.06818389573052552
+35013353,belfast giants beat nottingham panthers 4-2 away to win the elite league title on saturday night.,TranS2S,no,no,Unsupported,0.043087116399690845
+38328811,it's been a year since the death of a south sudanese man and her five daughters in south sudan.,PtGen,no.,yes.,Contradicted,0.05597710562304024
+10138849,"dr dr [UNK] venter looks set to become a doctor who is a doctor and his wife, in the wake of the vietnam war.",PtGen,no.,yes.,Contradicted,0.03310062465582497
+38345826,the eu's brexit negotiator has urged the government to sell fish to the european union as a result of brexit negotiations.,PtGen,yes.,yes.,Unsupported,0.06871866865265434
+40634994,"an 11-year-old boy has died in a house fire in canada, his mother has said.",TranS2S,yes.,yes,Unsupported,0.1646866111422056
+39186557,"a 16-year-old boy has become the first teenager to play taekwondo in the world, says the british taekwondo federation's chief executive.",TranS2S,no.,yes,Contradicted,0.22422232713690127
+32143053,a 19-year-old indian student has been shot dead at a school in the southern indian city of bangalore.,TranS2S,no,yes,Contradicted,0.11804153204017138
+39379405,"radioactive material has been found on a pembrokeshire tourist attraction off the north east coast of shetland, the bbc has learned.",PtGen,no.,yes.,Contradicted,0.061239140085755525

@@ -1,0 +1,42 @@
+services:
+# ─────────────── Ollama service ───────────────
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: always
+    ports:
+      - "11435:11434"
+    environment:
+      OLLAMA_MODELS: /models
+    volumes:
+      - /var/snap/ollama/common/models:/models
+    networks:
+      - appnet
+
+  # ─────────────── Faithfulness App ───────────────
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: Faithfulness-app
+    restart: always
+    ports:
+      - "8000:8000"
+      - "7860:7860"
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+      OLLAMA_MODELS: /models
+    volumes:
+      - ~/.cache:/root/.cache
+    depends_on:
+      - ollama
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    env_file:
+      - .env
+    networks:
+      - appnet
+
+networks:
+  appnet:
+    driver: bridge

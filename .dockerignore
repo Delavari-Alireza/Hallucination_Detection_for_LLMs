@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.vscode/
+.idea/
+notebooks
+images
+report
+sample_reaqusts_for_restApi.txt
+README.md

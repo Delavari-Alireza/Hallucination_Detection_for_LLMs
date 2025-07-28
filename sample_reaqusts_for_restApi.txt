@@ -1,0 +1,16 @@
+
+curl -X POST http://0.0.0.0:8000/infer \
+  -H "Content-Type: application/json" \
+  -d '{
+    "article": "John Smith graduated from Stanford University in 2010 with a degree in Computer Science. He currently works as a software engineer at Google.",
+    "summary": "John Smith graduated from Stanford University in 2010 and now works at Google as a software engineer."
+  }'
+
+
+
+curl -X POST http://0.0.0.0:8000/infer \
+  -H "Content-Type: application/json" \
+  -d '{
+    "article": "John Smith graduated from Stanford University in 2010 with a degree in Computer Science. He currently works as a software engineer at Google.",
+    "summary": "John Smith graduated from Harvard University and now works at Microsoft as a software engineer."
+  }'
